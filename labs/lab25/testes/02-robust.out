@@ -1,0 +1,55 @@
+clientes: Hargreaves (6) Nellie (23) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 1234567890 2345678901 3456789012 4567890123 5678901234 6789012345 7890123456 8901234567 901234567890 (2147483645) f(]3rj2 U<a{BY ;/Ew|eNd"zq OS0nID$_L^91lX T8C#4b\%o~m?us>Ah&'k- PZ)FVHK7}t.y@gQJ Mxc6+=W*p  [v!R:5iG (2147483646) 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 (2147483647) 
+clientes: Hargreaves (6) Nellie (23) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 1234567890 2345678901 3456789012 4567890123 5678901234 6789012345 7890123456 8901234567 901234567890 (2147483645) f(]3rj2 U<a{BY ;/Ew|eNd"zq OS0nID$_L^91lX T8C#4b\%o~m?us>Ah&'k- PZ)FVHK7}t.y@gQJ Mxc6+=W*p  [v!R:5iG (2147483646) 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 (2147483647) 
+clientes no intervalo [1,196]: 6 23 34 51 52 59 66 94 114 130 131 145 150 167 196 
+clientes no intervalo [75,125]: 94 114 
+clientes no intervalo [199,2147483647]: 2147483645 2147483646 2147483647 
+arvore vazia
+clientes: Hargreaves (6) Nellie (23) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 
+clientes: Skinner (-196) Serbia (-167) Jungian (-150) Elizabeth (-145) Percy (-131) Limoges (-130) Marciano (-114) Si (-94) Tientsin (-66) Tyndale (-59) Karenina (-52) Louise (-51) Mountbatten (-34) Nellie (-23) Hargreaves (-6) Hargreaves (6) Nellie (23) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 
+maximo: 196
+minimo: -196
+nao ha cliente 171
+nao ha cliente 14
+nao ha cliente 48
+nao ha cliente 134
+nao ha cliente 22
+nao ha cliente 97
+nao ha cliente 38
+cliente 66: Tientsin, 1.00 pontos
+nao ha cliente 29
+nao ha cliente 104
+nao ha cliente 46
+nao ha cliente 1
+nao ha cliente 106
+nao ha cliente 186
+nao ha cliente 194
+nao ha cliente 151
+cliente 145: Elizabeth, 1.00 pontos
+nao ha cliente 71
+nao ha cliente 147
+nao ha cliente 190
+cliente 131: Percy, 1.00 pontos
+nao ha cliente 44
+nao ha cliente 60
+nao ha cliente 165
+nao ha cliente 19
+nao ha cliente 33
+nao ha cliente 91
+nao ha cliente 140
+nao ha cliente 18
+nao ha cliente 68
+nao ha cliente 54
+nao ha cliente 135
+nao ha cliente 185
+nao ha cliente 116
+nao ha cliente 43
+nao ha cliente 110
+nao ha cliente 62
+clientes no intervalo [10,20]: nenhum
+clientes no intervalo [15,25]: 23 
+clientes no intervalo [195,210]: 196 
+clientes: Skinner (-196) Serbia (-167) Jungian (-150) Elizabeth (-145) Percy (-131) Limoges (-130) Marciano (-114) Si (-94) Tientsin (-66) Tyndale (-59) Karenina (-52) Louise (-51) Mountbatten (-34) Nellie (-23) Hargreaves (-6) Hargreaves (6) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 
+clientes: Skinner (-196) Serbia (-167) Jungian (-150) Elizabeth (-145) Percy (-131) Limoges (-130) Marciano (-114) Si (-94) Tientsin (-66) Tyndale (-59) Karenina (-52) Louise (-51) Mountbatten (-34) Nellie (-23) Hargreaves (-6) Hargreaves (6) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 
+maximo: 196
+minimo: -196
+clientes: Skinner (-196) Serbia (-167) Jungian (-150) Elizabeth (-145) Percy (-131) Limoges (-130) Marciano (-114) Si (-94) Tientsin (-66) Tyndale (-59) Karenina (-52) Louise (-51) Mountbatten (-34) Nellie (-23) Hargreaves (-6) Hargreaves (6) Mountbatten (34) Louise (51) Karenina (52) Tyndale (59) Tientsin (66) Si (94) Marciano (114) Limoges (130) Percy (131) Elizabeth (145) Jungian (150) Serbia (167) Skinner (196) 

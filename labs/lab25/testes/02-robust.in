@@ -1,0 +1,202 @@
+criar
+inserir 34, Mountbatten, 1.00
+inserir 59, Tyndale, 1.00
+inserir 2147483646, f(]3rj2 U<a{BY ;/Ew|eNd"zq OS0nID$_L^91lX T8C#4b\%o~m?us>Ah&'k- PZ)FVHK7}t.y@gQJ Mxc6+=W*p  [v!R:5iG, 1111.11
+inserir 150, Jungian, 1.00
+inserir 131, Percy, 1.00
+inserir 52, Karenina, 1.00
+inserir 6, Hargreaves, 1.00
+inserir 2147483645, 1234567890 2345678901 3456789012 4567890123 5678901234 6789012345 7890123456 8901234567 901234567890, 1111.11
+inserir 94, Si, 1.00
+inserir 66, Tientsin, 1.00
+inserir 145, Elizabeth, 1.00
+inserir 130, Limoges, 1.00
+inserir 167, Serbia, 1.00
+inserir 51, Louise, 1.00
+inserir 114, Marciano, 1.00
+inserir 2147483647, 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890, 1111.11
+inserir 196, Skinner, 1.00
+inserir 23, Nellie, 1.00
+imprimir
+inserir 23, Nellie, 1.00
+inserir 150, Jungian, 1.00
+inserir 6, Hargreaves, 1.00
+inserir 66, Tientsin, 1.00
+inserir 130, Limoges, 1.00
+inserir 145, Elizabeth, 1.00
+inserir 114, Marciano, 1.00
+inserir 52, Karenina, 1.00
+inserir 59, Tyndale, 1.00
+inserir 34, Mountbatten, 1.00
+inserir 94, Si, 1.00
+inserir 51, Louise, 1.00
+inserir 167, Serbia, 1.00
+inserir 196, Skinner, 1.00
+inserir 131, Percy, 1.00
+imprimir
+buscar-intervalo 1 196
+buscar-intervalo 75 125
+buscar-intervalo 199 2147483647
+remover 196
+remover 6
+remover 52
+remover 51
+remover 145
+remover 2147483647
+remover 131
+remover 2147483646
+remover 59
+remover 114
+remover 2147483645
+remover 66
+remover 130
+remover 23
+remover 150
+remover 94
+remover 34
+remover 167
+imprimir
+inserir 23, Nellie, 1.00
+inserir 150, Jungian, 1.00
+inserir 6, Hargreaves, 1.00
+inserir 66, Tientsin, 1.00
+inserir 130, Limoges, 1.00
+inserir 145, Elizabeth, 1.00
+inserir 114, Marciano, 1.00
+inserir 52, Karenina, 1.00
+inserir 59, Tyndale, 1.00
+inserir 34, Mountbatten, 1.00
+inserir 94, Si, 1.00
+inserir 51, Louise, 1.00
+inserir 167, Serbia, 1.00
+inserir 196, Skinner, 1.00
+inserir 131, Percy, 1.00
+imprimir
+inserir -23, Nellie, 1.00
+inserir -130, Limoges, 1.00
+inserir 34, Mountbatten, 1.00
+inserir 167, Serbia, 1.00
+inserir 150, Jungian, 1.00
+inserir 66, Tientsin, 1.00
+inserir 145, Elizabeth, 1.00
+inserir -114, Marciano, 1.00
+inserir 114, Marciano, 1.00
+inserir 52, Karenina, 1.00
+inserir -94, Si, 1.00
+inserir -131, Percy, 1.00
+inserir -167, Serbia, 1.00
+inserir 51, Louise, 1.00
+inserir -66, Tientsin, 1.00
+inserir -34, Mountbatten, 1.00
+inserir 59, Tyndale, 1.00
+inserir -6, Hargreaves, 1.00
+inserir 130, Limoges, 1.00
+inserir -59, Tyndale, 1.00
+inserir 6, Hargreaves, 1.00
+inserir -52, Karenina, 1.00
+inserir 196, Skinner, 1.00
+inserir -145, Elizabeth, 1.00
+inserir 131, Percy, 1.00
+inserir -150, Jungian, 1.00
+inserir -51, Louise, 1.00
+inserir 94, Si, 1.00
+inserir -196, Skinner, 1.00
+inserir 23, Nellie, 1.00
+imprimir
+maximo
+minimo
+buscar 171
+buscar 14
+buscar 48
+buscar 134
+buscar 22
+buscar 97
+buscar 38
+buscar 66
+buscar 29
+buscar 104
+buscar 46
+buscar 1
+buscar 106
+buscar 186
+buscar 194
+buscar 151
+buscar 145
+buscar 71
+buscar 147
+buscar 190
+buscar 131
+buscar 44
+buscar 60
+buscar 165
+buscar 19
+buscar 33
+buscar 91
+buscar 140
+buscar 18
+buscar 68
+buscar 54
+buscar 135
+buscar 185
+buscar 116
+buscar 43
+buscar 110
+buscar 62
+buscar-intervalo 10 20
+buscar-intervalo 15 25
+buscar-intervalo 195 210
+remover 3
+remover 64
+remover 140
+remover 108
+remover 137
+remover 93
+remover 192
+remover 180
+remover 79
+remover 63
+remover 111
+remover 71
+remover 200
+remover 165
+remover 69
+remover 84
+remover 186
+remover 23
+remover 168
+remover 183
+remover 113
+remover 105
+remover 12
+remover 15
+imprimir
+remover 3
+remover 64
+remover 140
+remover 108
+remover 137
+remover 93
+remover 192
+remover 180
+remover 79
+remover 63
+remover 111
+remover 71
+remover 200
+remover 165
+remover 69
+remover 84
+remover 186
+remover 23
+remover 168
+remover 183
+remover 113
+remover 105
+remover 12
+remover 15
+imprimir
+remover 121
+maximo
+minimo
+imprimir
+terminar

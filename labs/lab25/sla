@@ -1,0 +1,10 @@
+clientes: Carlos (0) Lia (10) Lea (20) Paulo (30) Juca (40) Rita (50) Dito (60) Pedro (70) Dora (80) Fulano de Tal (90) 
+cliente 50: Rita, 6.00 pontos
+nao ha cliente 25
+clientes no intervalo [25,85]: 30 40 50 60 70 80 
+clientes: Carlos (0) Lia (10) Lea (20) Paulo (30) Rita (50) Dito (60) Dora (80) 
+predecessor de 10: 0
+predecessor de 0: nao ha
+nao ha cliente 15
+minimo: 0
+maximo: 80
